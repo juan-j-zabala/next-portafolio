@@ -1,5 +1,8 @@
+import { FaCss3, FaHtml5, FaJs, FaReact, FaWordpress } from 'react-icons/fa'
+import { SiFramer, SiNextdotjs } from 'react-icons/si'
+
 //  data
-const aboutData = [
+export const aboutData = [
   {
     title: 'skills',
     info: [
