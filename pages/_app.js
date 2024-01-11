@@ -6,6 +6,7 @@ import Transition from '../components/Transition';
 
 function MyApp({ Component, pageProps }) {
   const router = useRouter()
+  console.log(router.route)
 
   return (
     <Layout>
